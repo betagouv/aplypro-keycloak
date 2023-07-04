@@ -1,1 +1,1 @@
-web: /app/bin/kc.sh start
+web: /app/bin/kc.sh start --optimized
